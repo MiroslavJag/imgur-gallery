@@ -1,0 +1,3 @@
+export const GET_GALLERY_DATA = 'GET_GALLERY_DATA';
+export const SET_GALLERY_DATA = 'SET_GALLERY_DATA';
+export const SET_ERROR = 'SET_ERROR';

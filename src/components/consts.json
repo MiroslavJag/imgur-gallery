@@ -1,0 +1,15 @@
+{
+ "API_URL" : "https://api.imgur.com/3/gallery/",
+ "CLIENT_ID" : "529a8e3d13e59f3",
+ "GALLERY_TYPE" : {
+  "HOT" : "hot",
+  "TOP" : "top",
+  "USER" : "user"
+ },
+ "GALLERY_SORT" : {
+  "VIRAL" : "viral",
+  "TOP" : "top",
+  "TIME" : "time",
+  "RISING" : "rising"
+ }
+} 
